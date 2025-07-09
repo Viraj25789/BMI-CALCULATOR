@@ -1,6 +1,10 @@
 # BMI-CALCULATOR
 # BMI Calculator Web App
 
+✍️ Author
+👤 Viraj Parmar
+💼 Computer Engineering Student
+
 This is a **simple BMI (Body Mass Index) Calculator built using HTML, CSS, JavaScript, and PHP. 
 It allows users to enter their *height and weight*, calculate their *BMI*, and get a result indicating if they are underweight, normal, or overweight.
 
